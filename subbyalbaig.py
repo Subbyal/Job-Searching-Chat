@@ -1,5 +1,5 @@
 import streamlit as st
-from google_search_results import search
+from google-search-results import search
 
 st.set_page_config(
     page_title="Job Searching Chatbot",
