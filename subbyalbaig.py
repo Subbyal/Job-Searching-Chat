@@ -1,5 +1,5 @@
 import streamlit as st
- 
+from serpapi.google_search_results import GoogleSearchResults 
 
 
 st.set_page_config(
