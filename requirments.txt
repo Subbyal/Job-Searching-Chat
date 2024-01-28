@@ -1,3 +1,4 @@
 streamlit
+serpapi
 serpapi.google_search_results
 GoogleSearchResults
