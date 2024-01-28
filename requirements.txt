@@ -1,4 +1,3 @@
 streamlit
-serpapi
 google-search-results
 
