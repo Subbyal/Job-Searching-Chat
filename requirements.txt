@@ -1,5 +1,4 @@
 streamlit
 serpapi
 google-search-results
-serpapi.google-search-results 
 
