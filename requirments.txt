@@ -1,2 +1,3 @@
-GoogleSearchResults
 streamlit
+GoogleSearchResults
+serpapi.google_search_results
